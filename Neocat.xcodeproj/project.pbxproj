@@ -37,6 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A62C257B2CBD83CC00C3E694 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A6D186472CBC664E00DA2D9F /* Neocat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Neocat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6D1864B2CBC664F00DA2D9F /* Neocat StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Neocat StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6D1864F2CBC664F00DA2D9F /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "Neocat StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
@@ -46,6 +47,7 @@
 		A6D186402CBC664E00DA2D9F = {
 			isa = PBXGroup;
 			children = (
+				A62C257B2CBD83CC00C3E694 /* README.md */,
 				A6D1864F2CBC664F00DA2D9F /* Stickers.xcstickers */,
 				A6D186482CBC664E00DA2D9F /* Products */,
 			);
