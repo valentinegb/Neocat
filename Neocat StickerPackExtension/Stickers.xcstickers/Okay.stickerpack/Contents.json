@@ -1,0 +1,851 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "small"
+  },
+  "stickers" : [
+    {
+      "filename" : "neocat__w_@3.sticker"
+    },
+    {
+      "filename" : "neocat_0_0@3.sticker"
+    },
+    {
+      "filename" : "neocat_3c@3.sticker"
+    },
+    {
+      "filename" : "neocat_amogus@3.sticker"
+    },
+    {
+      "filename" : "neocat_angel_pleading@3.sticker"
+    },
+    {
+      "filename" : "neocat_angel@3.sticker"
+    },
+    {
+      "filename" : "neocat_angry@3.sticker"
+    },
+    {
+      "filename" : "neocat_approve@3.sticker"
+    },
+    {
+      "filename" : "neocat_astronaut_gun@3.sticker"
+    },
+    {
+      "filename" : "neocat_astronaut@3.sticker"
+    },
+    {
+      "filename" : "neocat_aww@3.sticker"
+    },
+    {
+      "filename" : "neocat_baa@3.sticker"
+    },
+    {
+      "filename" : "neocat_blank@3.sticker"
+    },
+    {
+      "filename" : "neocat_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_blush_hide@3.sticker"
+    },
+    {
+      "filename" : "neocat_blush@3.sticker"
+    },
+    {
+      "filename" : "neocat_bongo_down@3.sticker"
+    },
+    {
+      "filename" : "neocat_bongo_up@3.sticker"
+    },
+    {
+      "filename" : "neocat_book_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_book@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_blush@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_cute@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_googly@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_happy@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop_woozy@3.sticker"
+    },
+    {
+      "filename" : "neocat_boop@3.sticker"
+    },
+    {
+      "filename" : "neocat_bottom@3.sticker"
+    },
+    {
+      "filename" : "neocat_box@3.sticker"
+    },
+    {
+      "filename" : "neocat_catmode@3.sticker"
+    },
+    {
+      "filename" : "neocat_cofe@3.sticker"
+    },
+    {
+      "filename" : "neocat_comfy__w_@3.sticker"
+    },
+    {
+      "filename" : "neocat_comfy_happy@3.sticker"
+    },
+    {
+      "filename" : "neocat_comfy_mug@3.sticker"
+    },
+    {
+      "filename" : "neocat_comfy_sip@3.sticker"
+    },
+    {
+      "filename" : "neocat_comfy@3.sticker"
+    },
+    {
+      "filename" : "neocat_confused@3.sticker"
+    },
+    {
+      "filename" : "neocat_cool_fingerguns@3.sticker"
+    },
+    {
+      "filename" : "neocat_cool@3.sticker"
+    },
+    {
+      "filename" : "neocat_cry_loud@3.sticker"
+    },
+    {
+      "filename" : "neocat_cry@3.sticker"
+    },
+    {
+      "filename" : "neocat_cute_reach@3.sticker"
+    },
+    {
+      "filename" : "neocat_cute@3.sticker"
+    },
+    {
+      "filename" : "neocat_devil@3.sticker"
+    },
+    {
+      "filename" : "neocat_dizzy@3.sticker"
+    },
+    {
+      "filename" : "neocat_drowsy@3.sticker"
+    },
+    {
+      "filename" : "neocat_evil_3c@3.sticker"
+    },
+    {
+      "filename" : "neocat_evil@3.sticker"
+    },
+    {
+      "filename" : "neocat_facepalm@3.sticker"
+    },
+    {
+      "filename" : "neocat_fingerguns@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_ace@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_agender@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_ambiamorous@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_androgyne@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_aro@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_aroflux@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_bi@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_bigender@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiace@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiaro@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiflux@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demigirl@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demiguy@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_demilesbian@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_deminb@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_disabled@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_finsexual@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_gay@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_genderfluid@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_intersex@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_lesbian@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_nb@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_pan@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_plural@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_polyam@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_salmacian@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_sapphic@3.sticker"
+    },
+    {
+      "filename" : "neocat_flag_trans@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof__w_@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_angel@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_cute@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_devil@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_happy@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_mug@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_reach@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_sad_reach@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_floof@3.sticker"
+    },
+    {
+      "filename" : "neocat_flop__w_@3.sticker"
+    },
+    {
+      "filename" : "neocat_flop_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_flop_happy@3.sticker"
+    },
+    {
+      "filename" : "neocat_flop_sleep@3.sticker"
+    },
+    {
+      "filename" : "neocat_flop@3.sticker"
+    },
+    {
+      "filename" : "neocat_flush@3.sticker"
+    },
+    {
+      "filename" : "neocat_foxmask@3.sticker"
+    },
+    {
+      "filename" : "neocat_glare_sob@3.sticker"
+    },
+    {
+      "filename" : "neocat_glare@3.sticker"
+    },
+    {
+      "filename" : "neocat_glasses@3.sticker"
+    },
+    {
+      "filename" : "neocat_googly_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_googly_drool@3.sticker"
+    },
+    {
+      "filename" : "neocat_googly_shocked@3.sticker"
+    },
+    {
+      "filename" : "neocat_googly_woozy@3.sticker"
+    },
+    {
+      "filename" : "neocat_googly@3.sticker"
+    },
+    {
+      "filename" : "neocat_gun@3.sticker"
+    },
+    {
+      "filename" : "neocat_happy_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_happy@3.sticker"
+    },
+    {
+      "filename" : "neocat_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_blob_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_blob_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_blob@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_bun_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_bun_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_bun@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_alt@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_sad_alt@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_dragn@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_duck_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_duck_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_duck@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_fox_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_fox_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_fox@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_haj_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_haj_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_haj@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_hug@3.sticker"
+    },
+    {
+      "filename" : "neocat_hyper@3.sticker"
+    },
+    {
+      "filename" : "neocat_kirby_succ@3.sticker"
+    },
+    {
+      "filename" : "neocat_kirby@3.sticker"
+    },
+    {
+      "filename" : "neocat_kisser@3.sticker"
+    },
+    {
+      "filename" : "neocat_knife@3.sticker"
+    },
+    {
+      "filename" : "neocat_knives@3.sticker"
+    },
+    {
+      "filename" : "neocat_laptop_notice@3.sticker"
+    },
+    {
+      "filename" : "neocat_laptop_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_laptop@3.sticker"
+    },
+    {
+      "filename" : "neocat_laugh_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_laugh_sweat@3.sticker"
+    },
+    {
+      "filename" : "neocat_laugh_tears@3.sticker"
+    },
+    {
+      "filename" : "neocat_laugh@3.sticker"
+    },
+    {
+      "filename" : "neocat_lul@3.sticker"
+    },
+    {
+      "filename" : "neocat_magnify@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_2@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_3@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_blush@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_happy@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_reach@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_sob_heart@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt_sob@3.sticker"
+    },
+    {
+      "filename" : "neocat_melt@3.sticker"
+    },
+    {
+      "filename" : "neocat_mug__w_@3.sticker"
+    },
+    {
+      "filename" : "neocat_mug_drink@3.sticker"
+    },
+    {
+      "filename" : "neocat_mug_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_mug@3.sticker"
+    },
+    {
+      "filename" : "neocat_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_blob_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_blob@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_bread@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_bun_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_bun@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_burger@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_cat_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_cat@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_cookie@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_donut@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_dragn_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_dragn@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_egg@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_fox_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_fox@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_haj_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_haj@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_melon@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_pita@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_pizza@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_toblerone@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_verified@3.sticker"
+    },
+    {
+      "filename" : "neocat_nom_waffle@3.sticker"
+    },
+    {
+      "filename" : "neocat_notice@3.sticker"
+    },
+    {
+      "filename" : "neocat_o_o@3.sticker"
+    },
+    {
+      "filename" : "neocat_owo_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_floof@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_flop@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_googly@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_happy@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_sob@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_up@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat_woozy@3.sticker"
+    },
+    {
+      "filename" : "neocat_pat@3.sticker"
+    },
+    {
+      "filename" : "neocat_peek_bread@3.sticker"
+    },
+    {
+      "filename" : "neocat_peek_comfy@3.sticker"
+    },
+    {
+      "filename" : "neocat_peek_knife@3.sticker"
+    },
+    {
+      "filename" : "neocat_peek_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_peek@3.sticker"
+    },
+    {
+      "filename" : "neocat_pensive@3.sticker"
+    },
+    {
+      "filename" : "neocat_phone@3.sticker"
+    },
+    {
+      "filename" : "neocat_pleading_reach@3.sticker"
+    },
+    {
+      "filename" : "neocat_pleading@3.sticker"
+    },
+    {
+      "filename" : "neocat_police@3.sticker"
+    },
+    {
+      "filename" : "neocat_pout@3.sticker"
+    },
+    {
+      "filename" : "neocat_rainbow@3.sticker"
+    },
+    {
+      "filename" : "neocat_reach_drool@3.sticker"
+    },
+    {
+      "filename" : "neocat_reach@3.sticker"
+    },
+    {
+      "filename" : "neocat_reject@3.sticker"
+    },
+    {
+      "filename" : "neocat_sad_reach@3.sticker"
+    },
+    {
+      "filename" : "neocat_sad@3.sticker"
+    },
+    {
+      "filename" : "neocat_santa@3.sticker"
+    },
+    {
+      "filename" : "neocat_science@3.sticker"
+    },
+    {
+      "filename" : "neocat_scream_angry@3.sticker"
+    },
+    {
+      "filename" : "neocat_scream_scared@3.sticker"
+    },
+    {
+      "filename" : "neocat_scream_stare@3.sticker"
+    },
+    {
+      "filename" : "neocat_scream@3.sticker"
+    },
+    {
+      "filename" : "neocat_shocked@3.sticker"
+    },
+    {
+      "filename" : "neocat_shy@3.sticker"
+    },
+    {
+      "filename" : "neocat_sign_aaa@3.sticker"
+    },
+    {
+      "filename" : "neocat_sign_no@3.sticker"
+    },
+    {
+      "filename" : "neocat_sign_nya@3.sticker"
+    },
+    {
+      "filename" : "neocat_sign_thx@3.sticker"
+    },
+    {
+      "filename" : "neocat_sign_yes@3.sticker"
+    },
+    {
+      "filename" : "neocat_sign_yip@3.sticker"
+    },
+    {
+      "filename" : "neocat_sip_glare@3.sticker"
+    },
+    {
+      "filename" : "neocat_sip_nervous@3.sticker"
+    },
+    {
+      "filename" : "neocat_sip_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_sip@3.sticker"
+    },
+    {
+      "filename" : "neocat_smol@3.sticker"
+    },
+    {
+      "filename" : "neocat_smug@3.sticker"
+    },
+    {
+      "filename" : "neocat_snuggle_fox@3.sticker"
+    },
+    {
+      "filename" : "neocat_snuggle@3.sticker"
+    },
+    {
+      "filename" : "neocat_sob@3.sticker"
+    },
+    {
+      "filename" : "neocat_solder_googly@3.sticker"
+    },
+    {
+      "filename" : "neocat_solder@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_dl@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_down_end@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_down@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_dr@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_h@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_left@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_right@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_ul@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_up@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_ur@3.sticker"
+    },
+    {
+      "filename" : "neocat_stretch_v@3.sticker"
+    },
+    {
+      "filename" : "neocat_surprised_pika@3.sticker"
+    },
+    {
+      "filename" : "neocat_surprised@3.sticker"
+    },
+    {
+      "filename" : "neocat_sweat@3.sticker"
+    },
+    {
+      "filename" : "neocat_thief@3.sticker"
+    },
+    {
+      "filename" : "neocat_think_anime@3.sticker"
+    },
+    {
+      "filename" : "neocat_think_cool@3.sticker"
+    },
+    {
+      "filename" : "neocat_think_googly@3.sticker"
+    },
+    {
+      "filename" : "neocat_think_owo@3.sticker"
+    },
+    {
+      "filename" : "neocat_think_woozy@3.sticker"
+    },
+    {
+      "filename" : "neocat_think@3.sticker"
+    },
+    {
+      "filename" : "neocat_thinking@3.sticker"
+    },
+    {
+      "filename" : "neocat_thonk@3.sticker"
+    },
+    {
+      "filename" : "neocat_thumbsdown@3.sticker"
+    },
+    {
+      "filename" : "neocat_thumbsup@3.sticker"
+    },
+    {
+      "filename" : "neocat_up__w_@3.sticker"
+    },
+    {
+      "filename" : "neocat_up_paws@3.sticker"
+    },
+    {
+      "filename" : "neocat_up_sleep@3.sticker"
+    },
+    {
+      "filename" : "neocat_up@3.sticker"
+    },
+    {
+      "filename" : "neocat_uwu@3.sticker"
+    },
+    {
+      "filename" : "neocat_verified@3.sticker"
+    },
+    {
+      "filename" : "neocat_vr@3.sticker"
+    },
+    {
+      "filename" : "neocat_what@3.sticker"
+    },
+    {
+      "filename" : "neocat_wink_blep@3.sticker"
+    },
+    {
+      "filename" : "neocat_wink@3.sticker"
+    },
+    {
+      "filename" : "neocat_woozy@3.sticker"
+    },
+    {
+      "filename" : "neocat_x_x@3.sticker"
+    },
+    {
+      "filename" : "neocat_yeet@3.sticker"
+    },
+    {
+      "filename" : "neocat_yell@3.sticker"
+    },
+    {
+      "filename" : "neocat@3.sticker"
+    }
+  ]
+}
