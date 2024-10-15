@@ -13,6 +13,14 @@ yourself. Luckily though, the only **requirement** is Xcode (and, obviously, an
 iPhone). You probably need to use **Xcode 15.2**, but I'd be very interested to
 know if newer versions work, please let me know!
 
+> [!IMPORTANT]
+> Xcode 15.2 doesn't like to run on newer versions of macOS, like macOS 15 for
+> example. However, we can sort of trick it into running anyway. Here's how I
+> do it: I install a newer version of Xcode, like Xcode 16, I backup
+> Xcode 15.2's `Info.plist` (`Xcode.app/Contents/Info.plist`), duplicate Xcode
+> 16's `Info.plist` in the place of Xcode 15.2's, run Xcode 15.2 once, then
+> restore the backed up `Info.plist`, and it stops complaining.
+
 1. **Enable Developer Mode on your iPhone.**
 
    Open **Settings**, navigate to **Privacy & Security** -> **Developer Mode**,
