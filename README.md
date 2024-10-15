@@ -2,7 +2,7 @@
 
 An iMessage sticker pack for [Volpeon]'s [Neocat] emojis.
 
-<!-- Sticker pack screenshot here -->
+<img width="293" alt="IMG_4547" src="https://github.com/user-attachments/assets/769656ea-2b47-4f72-9d46-541682d13f5d">
 
 *[Neocat] and thus this project are licensed under [CC BY-NC-SA 4.0].*
 
@@ -25,14 +25,14 @@ know if newer versions work, please let me know!
    yourself. If you haven't used Xcode before, you will need to select **Add an
    Account...**
 
-   <!-- Signing & Capabilities screenshot here -->
+   <img width="1552" alt="Screenshot 2024-10-14 at 4 37 54 PM" src="https://github.com/user-attachments/assets/3be106da-5f90-4636-bd7e-0829000f777c">
 4. **Set Run Destination to your iPhone.**
 
    Select the **Run Destination** at the top middle of the window. If you have
    not used Xcode before, you will need to plug your iPhone into your computer,
    otherwise you may be able to wirelessly connect to your iPhone.
 
-   <!-- Run Destination screenshot here -->
+   <img width="1552" alt="Screenshot 2024-10-14 at 4 42 05 PM" src="https://github.com/user-attachments/assets/7b25f72b-e3a9-45aa-8dcb-2dc0dea2df56">
 5. **"Run" the sticker pack.**
 
    Click the play icon, or press <kbd>⌘</kbd> <kbd>R</kbd>. This will build,
