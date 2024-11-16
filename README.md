@@ -8,10 +8,13 @@ An iMessage sticker pack for [Volpeon]'s [Neocat] emojis.
 
 ## Install
 
-Unfortunately, I don't have a build I can just hand out, you have to build it
-yourself. Luckily though, the only **requirement** is Xcode (and, obviously, an
-iPhone). You probably need to use **Xcode 15.2**, but I'd be very interested to
-know if newer versions work, please let me know!
+Simply **download `neocat.ipa`** from the [latest release] and **sideload**
+using your favorite sideloader! (I use [AltStore].)
+
+## Build
+
+The only **requirement** is Xcode. You probably need to use **Xcode 15.2**, but
+I'd be very interested to know if newer versions work, please let me know!
 
 > [!IMPORTANT]
 > Xcode 15.2 doesn't like to run on newer versions of macOS, like macOS 15 for
@@ -53,10 +56,10 @@ know if newer versions work, please let me know!
 
 After that, you're done! Unfortunately though, due to Apple's security
 restrictions and this being an app not installed through an app store, you will
-have have to **repeat steps 2 and 5 every week**, more or less. It may be
-possible to take different steps and *sideload* the sticker pack, but I wouldn't
-know, so don't ask me.
+have have to **repeat steps 2 and 5 every week**, more or less.
 
 [Volpeon]: https://volpeon.ink
 [Neocat]: https://volpeon.ink/emojis/neocat/
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/
+[latest release]: https://github.com/valentinegb/Neocat/releases/latest
+[AltStore]: https://altstore.io
