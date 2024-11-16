@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Comfy Peek Neocat",
     "filename" : "neocat_peek_comfy@3.png"
   }
 }

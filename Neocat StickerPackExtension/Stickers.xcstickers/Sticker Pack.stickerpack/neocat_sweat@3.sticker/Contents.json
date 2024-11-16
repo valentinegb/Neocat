@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Sweat Neocat",
     "filename" : "neocat_sweat@3.png"
   }
 }

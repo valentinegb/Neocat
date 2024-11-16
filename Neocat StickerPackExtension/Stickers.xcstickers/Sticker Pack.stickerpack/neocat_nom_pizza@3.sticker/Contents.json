@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Pizza Nom Neocat",
     "filename" : "neocat_nom_pizza@3.png"
   }
 }

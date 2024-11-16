@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Bread Nom Neocat",
     "filename" : "neocat_nom_bread@3.png"
   }
 }

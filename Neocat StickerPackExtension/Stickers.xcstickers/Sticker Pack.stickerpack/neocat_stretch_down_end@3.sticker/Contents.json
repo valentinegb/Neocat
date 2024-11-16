@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "End Down Stretch Neocat",
     "filename" : "neocat_stretch_down_end@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Pout Neocat",
     "filename" : "neocat_pout@3.png"
   }
 }

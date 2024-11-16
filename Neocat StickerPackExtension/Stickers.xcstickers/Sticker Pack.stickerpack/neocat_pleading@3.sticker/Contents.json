@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Pleading Neocat",
     "filename" : "neocat_pleading@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Woozy Boop Neocat",
     "filename" : "neocat_boop_woozy@3.png"
   }
 }

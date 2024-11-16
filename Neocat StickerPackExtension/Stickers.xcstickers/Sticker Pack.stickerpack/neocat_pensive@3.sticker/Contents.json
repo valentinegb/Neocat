@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Pensive Neocat",
     "filename" : "neocat_pensive@3.png"
   }
 }

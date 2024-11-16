@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Cry Neocat",
     "filename" : "neocat_cry@3.png"
   }
 }

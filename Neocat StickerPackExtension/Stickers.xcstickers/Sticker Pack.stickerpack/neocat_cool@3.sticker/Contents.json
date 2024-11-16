@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Cool Neocat",
     "filename" : "neocat_cool@3.png"
   }
 }

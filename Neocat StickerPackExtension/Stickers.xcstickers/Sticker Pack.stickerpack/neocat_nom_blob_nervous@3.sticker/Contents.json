@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Nervous Blob Nom Neocat",
     "filename" : "neocat_nom_blob_nervous@3.png"
   }
 }

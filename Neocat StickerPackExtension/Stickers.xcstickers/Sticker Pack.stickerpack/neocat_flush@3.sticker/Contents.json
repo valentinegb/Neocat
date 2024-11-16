@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Flush Neocat",
     "filename" : "neocat_flush@3.png"
   }
 }

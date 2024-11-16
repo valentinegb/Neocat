@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "VR Neocat",
     "filename" : "neocat_vr@3.png"
   }
 }

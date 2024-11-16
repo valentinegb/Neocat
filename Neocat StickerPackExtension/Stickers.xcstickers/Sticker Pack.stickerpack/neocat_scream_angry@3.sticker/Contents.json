@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Angry Scream Neocat",
     "filename" : "neocat_scream_angry@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Knives Neocat",
     "filename" : "neocat_knives@3.png"
   }
 }

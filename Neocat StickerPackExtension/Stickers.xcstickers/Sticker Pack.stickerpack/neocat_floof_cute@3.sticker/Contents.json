@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Cute Floof Neocat",
     "filename" : "neocat_floof_cute@3.png"
   }
 }

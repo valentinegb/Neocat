@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Aww Neocat",
     "filename" : "neocat_aww@3.png"
   }
 }

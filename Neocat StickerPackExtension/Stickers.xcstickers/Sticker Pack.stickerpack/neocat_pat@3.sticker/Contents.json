@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Pat Neocat",
     "filename" : "neocat_pat@3.png"
   }
 }

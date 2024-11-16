@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Smol Neocat",
     "filename" : "neocat_smol@3.png"
   }
 }

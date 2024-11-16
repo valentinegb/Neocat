@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Surprised Neocat",
     "filename" : "neocat_surprised@3.png"
   }
 }

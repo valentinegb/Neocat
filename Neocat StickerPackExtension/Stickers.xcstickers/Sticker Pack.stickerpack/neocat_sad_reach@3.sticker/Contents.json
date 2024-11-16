@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Reach Sad Neocat",
     "filename" : "neocat_sad_reach@3.png"
   }
 }

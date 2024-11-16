@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Shy Neocat",
     "filename" : "neocat_shy@3.png"
   }
 }

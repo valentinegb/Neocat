@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Foxmask Neocat",
     "filename" : "neocat_foxmask@3.png"
   }
 }

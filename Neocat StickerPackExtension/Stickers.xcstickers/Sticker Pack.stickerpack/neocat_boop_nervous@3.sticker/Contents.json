@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Nervous Boop Neocat",
     "filename" : "neocat_boop_nervous@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Mug Comfy Neocat",
     "filename" : "neocat_comfy_mug@3.png"
   }
 }

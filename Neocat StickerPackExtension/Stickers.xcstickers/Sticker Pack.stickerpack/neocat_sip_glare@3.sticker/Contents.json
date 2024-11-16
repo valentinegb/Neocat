@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Glare Sip Neocat",
     "filename" : "neocat_sip_glare@3.png"
   }
 }

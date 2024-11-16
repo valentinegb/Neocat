@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Drool Googly Neocat",
     "filename" : "neocat_googly_drool@3.png"
   }
 }

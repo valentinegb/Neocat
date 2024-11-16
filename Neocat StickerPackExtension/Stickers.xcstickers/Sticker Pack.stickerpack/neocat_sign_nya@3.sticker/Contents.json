@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "NYA Sign Neocat",
     "filename" : "neocat_sign_nya@3.png"
   }
 }

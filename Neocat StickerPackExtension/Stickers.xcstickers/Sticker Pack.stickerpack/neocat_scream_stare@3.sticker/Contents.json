@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Stare Scream Neocat",
     "filename" : "neocat_scream_stare@3.png"
   }
 }

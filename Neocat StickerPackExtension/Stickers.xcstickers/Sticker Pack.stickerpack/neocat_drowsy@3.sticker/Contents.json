@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Drowsy Neocat",
     "filename" : "neocat_drowsy@3.png"
   }
 }

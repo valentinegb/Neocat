@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Devil Neocat",
     "filename" : "neocat_devil@3.png"
   }
 }

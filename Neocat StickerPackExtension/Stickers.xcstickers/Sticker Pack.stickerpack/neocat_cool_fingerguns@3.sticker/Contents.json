@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Fingerguns Cool Neocat",
     "filename" : "neocat_cool_fingerguns@3.png"
   }
 }

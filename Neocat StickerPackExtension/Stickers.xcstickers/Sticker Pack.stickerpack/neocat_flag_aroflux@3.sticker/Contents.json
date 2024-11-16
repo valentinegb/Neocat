@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Aroflux Flag Neocat",
     "filename" : "neocat_flag_aroflux@3.png"
   }
 }

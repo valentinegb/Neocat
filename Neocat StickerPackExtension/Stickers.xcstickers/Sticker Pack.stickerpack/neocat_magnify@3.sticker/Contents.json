@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Magnify Neocat",
     "filename" : "neocat_magnify@3.png"
   }
 }

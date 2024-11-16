@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Duck Hug Neocat",
     "filename" : "neocat_hug_duck@3.png"
   }
 }

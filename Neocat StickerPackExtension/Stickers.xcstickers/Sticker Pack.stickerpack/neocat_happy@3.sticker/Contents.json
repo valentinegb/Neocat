@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Happy Neocat",
     "filename" : "neocat_happy@3.png"
   }
 }

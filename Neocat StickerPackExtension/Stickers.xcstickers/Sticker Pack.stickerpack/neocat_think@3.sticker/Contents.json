@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Think Neocat",
     "filename" : "neocat_think@3.png"
   }
 }

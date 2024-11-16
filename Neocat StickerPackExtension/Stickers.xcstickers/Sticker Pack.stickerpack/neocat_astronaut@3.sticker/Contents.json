@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Astronaut Neocat",
     "filename" : "neocat_astronaut@3.png"
   }
 }

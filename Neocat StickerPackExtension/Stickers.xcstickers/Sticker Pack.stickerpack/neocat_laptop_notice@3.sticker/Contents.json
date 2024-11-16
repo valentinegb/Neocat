@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Notice Laptop Neocat",
     "filename" : "neocat_laptop_notice@3.png"
   }
 }

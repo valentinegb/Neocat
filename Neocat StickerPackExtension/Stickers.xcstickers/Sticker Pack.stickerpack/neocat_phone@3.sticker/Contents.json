@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Phone Neocat",
     "filename" : "neocat_phone@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Shcoked Neocat",
     "filename" : "neocat_shocked@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Pika Surprised Neocat",
     "filename" : "neocat_surprised_pika@3.png"
   }
 }

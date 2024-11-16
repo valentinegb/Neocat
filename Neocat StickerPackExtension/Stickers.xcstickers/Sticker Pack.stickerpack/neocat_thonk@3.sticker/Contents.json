@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Thonk Neocat",
     "filename" : "neocat_thonk@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Blep Melt Neocat",
     "filename" : "neocat_melt_blep@3.png"
   }
 }

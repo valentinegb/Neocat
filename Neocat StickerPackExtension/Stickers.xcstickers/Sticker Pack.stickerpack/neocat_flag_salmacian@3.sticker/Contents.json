@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Salmacian Flag Neocat",
     "filename" : "neocat_flag_salmacian@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Plural Flag Neocat",
     "filename" : "neocat_flag_plural@3.png"
   }
 }

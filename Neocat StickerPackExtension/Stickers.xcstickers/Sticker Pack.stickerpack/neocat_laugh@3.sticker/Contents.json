@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Laugh Neocat",
     "filename" : "neocat_laugh@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Donut Nom Neocat",
     "filename" : "neocat_nom_donut@3.png"
   }
 }

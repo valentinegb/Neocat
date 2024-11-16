@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Anime Think Neocat",
     "filename" : "neocat_think_anime@3.png"
   }
 }

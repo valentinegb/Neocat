@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Disabled Flag Neocat",
     "filename" : "neocat_flag_disabled@3.png"
   }
 }

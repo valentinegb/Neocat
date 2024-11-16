@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Sleep Up Neocat",
     "filename" : "neocat_up_sleep@3.png"
   }
 }

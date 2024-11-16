@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Bigender Flag Neocat",
     "filename" : "neocat_flag_bigender@3.png"
   }
 }

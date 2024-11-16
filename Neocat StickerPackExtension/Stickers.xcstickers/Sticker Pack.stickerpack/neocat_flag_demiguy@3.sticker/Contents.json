@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Demiguy Flag Neocat",
     "filename" : "neocat_flag_demiguy@3.png"
   }
 }

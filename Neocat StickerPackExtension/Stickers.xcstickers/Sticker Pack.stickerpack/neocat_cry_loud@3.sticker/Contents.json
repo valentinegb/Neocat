@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Loud Cry Neocat",
     "filename" : "neocat_cry_loud@3.png"
   }
 }

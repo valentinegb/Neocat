@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Kirby Neocat",
     "filename" : "neocat_kirby@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "THX Sign Neocat",
     "filename" : "neocat_sign_thx@3.png"
   }
 }

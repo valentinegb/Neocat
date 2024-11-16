@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Up Bongo Neocat",
     "filename" : "neocat_bongo_up@3.png"
   }
 }

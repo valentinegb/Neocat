@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Bottom Neocat",
     "filename" : "neocat_bottom@3.png"
   }
 }

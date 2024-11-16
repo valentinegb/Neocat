@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Angel Neocat",
     "filename" : "neocat_angel@3.png"
   }
 }

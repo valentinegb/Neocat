@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Bread Peek Neocat",
     "filename" : "neocat_peek_bread@3.png"
   }
 }

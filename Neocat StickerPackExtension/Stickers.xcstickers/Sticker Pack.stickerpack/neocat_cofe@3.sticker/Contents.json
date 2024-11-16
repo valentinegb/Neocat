@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Cofe Neocat",
     "filename" : "neocat_cofe@3.png"
   }
 }

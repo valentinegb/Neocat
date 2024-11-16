@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Googly Solder Neocat",
     "filename" : "neocat_solder_googly@3.png"
   }
 }

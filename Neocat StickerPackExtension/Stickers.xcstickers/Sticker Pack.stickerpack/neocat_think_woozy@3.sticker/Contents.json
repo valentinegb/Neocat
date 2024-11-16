@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Woozy Think Neocat",
     "filename" : "neocat_think_woozy@3.png"
   }
 }

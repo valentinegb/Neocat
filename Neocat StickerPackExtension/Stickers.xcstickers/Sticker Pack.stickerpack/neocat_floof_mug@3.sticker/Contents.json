@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Mug Floof Neocat",
     "filename" : "neocat_floof_mug@3.png"
   }
 }

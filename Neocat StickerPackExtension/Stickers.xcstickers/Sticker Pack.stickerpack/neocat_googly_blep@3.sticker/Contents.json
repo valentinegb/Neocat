@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Blep Googly Neocat",
     "filename" : "neocat_googly_blep@3.png"
   }
 }

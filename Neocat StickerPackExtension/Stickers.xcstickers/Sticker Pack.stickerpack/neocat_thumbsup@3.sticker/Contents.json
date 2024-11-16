@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Thumbsup Neocat",
     "filename" : "neocat_thumbsup@3.png"
   }
 }

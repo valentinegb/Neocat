@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Egg Nom Neocat",
     "filename" : "neocat_nom_egg@3.png"
   }
 }

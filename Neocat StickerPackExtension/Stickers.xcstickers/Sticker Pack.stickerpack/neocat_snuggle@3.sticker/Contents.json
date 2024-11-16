@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Snuggle Neocat",
     "filename" : "neocat_snuggle@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Thief Neocat",
     "filename" : "neocat_thief@3.png"
   }
 }

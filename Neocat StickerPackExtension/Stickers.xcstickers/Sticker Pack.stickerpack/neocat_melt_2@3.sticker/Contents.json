@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Melt 2 Neocat",
     "filename" : "neocat_melt_2@3.png"
   }
 }

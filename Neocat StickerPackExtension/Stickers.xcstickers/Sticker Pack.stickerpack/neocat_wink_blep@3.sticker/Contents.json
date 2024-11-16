@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Blep Wink Neocat",
     "filename" : "neocat_wink_blep@3.png"
   }
 }

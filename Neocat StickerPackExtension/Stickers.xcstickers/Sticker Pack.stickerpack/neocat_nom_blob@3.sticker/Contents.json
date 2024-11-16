@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Blob Nom Neocat",
     "filename" : "neocat_nom_blob@3.png"
   }
 }

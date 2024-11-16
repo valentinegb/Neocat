@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Scared Scream Neocat",
     "filename" : "neocat_scream_scared@3.png"
   }
 }

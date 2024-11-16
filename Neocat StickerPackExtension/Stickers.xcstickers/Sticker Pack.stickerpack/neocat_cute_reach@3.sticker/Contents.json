@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Reach Cute Neocat",
     "filename" : "neocat_cute_reach@3.png"
   }
 }

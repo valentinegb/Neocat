@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Kisser Neocat",
     "filename" : "neocat_kisser@3.png"
   }
 }

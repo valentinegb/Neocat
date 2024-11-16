@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Blep Flop Neocat",
     "filename" : "neocat_flop_blep@3.png"
   }
 }

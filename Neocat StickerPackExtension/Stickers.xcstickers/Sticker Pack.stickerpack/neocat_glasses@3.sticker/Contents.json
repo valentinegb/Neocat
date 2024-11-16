@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Glasses Neocat",
     "filename" : "neocat_glasses@3.png"
   }
 }

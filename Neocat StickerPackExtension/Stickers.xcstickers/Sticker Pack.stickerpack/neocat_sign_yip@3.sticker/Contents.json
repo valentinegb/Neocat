@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "YIP Sign Neocat",
     "filename" : "neocat_sign_yip@3.png"
   }
 }

@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Mug Neocat",
     "filename" : "neocat_mug@3.png"
   }
 }

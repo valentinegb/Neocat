@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Paws Up Neocat",
     "filename" : "neocat_up_paws@3.png"
   }
 }

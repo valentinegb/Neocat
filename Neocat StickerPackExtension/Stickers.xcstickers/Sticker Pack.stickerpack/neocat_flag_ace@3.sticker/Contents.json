@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Ace Flag Neocat",
     "filename" : "neocat_flag_ace@3.png"
   }
 }

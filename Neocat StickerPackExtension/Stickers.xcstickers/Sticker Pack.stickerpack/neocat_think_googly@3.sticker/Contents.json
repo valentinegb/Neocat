@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Googly Think Neocat",
     "filename" : "neocat_think_googly@3.png"
   }
 }

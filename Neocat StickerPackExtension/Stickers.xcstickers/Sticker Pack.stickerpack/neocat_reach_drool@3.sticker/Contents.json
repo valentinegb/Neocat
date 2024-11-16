@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Drool Reach Neocat",
     "filename" : "neocat_reach_drool@3.png"
   }
 }

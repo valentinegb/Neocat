@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Polyam Flag Neocat",
     "filename" : "neocat_flag_polyam@3.png"
   }
 }

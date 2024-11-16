@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Smug Neocat",
     "filename" : "neocat_smug@3.png"
   }
 }

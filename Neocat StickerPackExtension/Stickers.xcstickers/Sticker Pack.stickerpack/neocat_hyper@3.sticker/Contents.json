@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Hyper Neocat",
     "filename" : "neocat_hyper@3.png"
   }
 }

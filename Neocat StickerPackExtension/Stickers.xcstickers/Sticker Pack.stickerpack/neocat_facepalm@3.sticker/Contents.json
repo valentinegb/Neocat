@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Facepalm Neocat",
     "filename" : "neocat_facepalm@3.png"
   }
 }

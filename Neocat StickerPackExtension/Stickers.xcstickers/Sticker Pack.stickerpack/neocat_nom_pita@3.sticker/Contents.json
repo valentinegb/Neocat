@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Pitas Nom Neocat",
     "filename" : "neocat_nom_pita@3.png"
   }
 }

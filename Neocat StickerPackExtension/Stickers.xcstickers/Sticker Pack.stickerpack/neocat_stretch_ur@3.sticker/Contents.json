@@ -4,6 +4,7 @@
     "version" : 1
   },
   "properties" : {
+    "accessibility-label" : "Up Right Stretch Neocat",
     "filename" : "neocat_stretch_ur@3.png"
   }
 }
